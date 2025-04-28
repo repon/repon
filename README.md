@@ -18,7 +18,7 @@ Webエンジニアです。
 |-|-|-|-|
 | [OAuthログインアプリ](https://login-app-murex-kappa.vercel.app/) | [リポジトリ](https://github.com/repon/login-app-202504141643) | Googleアカウントでログイン、自前BFF構成 | Next.js, OAuth2, JWT, Cookie, Vercel |
 
-## 📫 連絡先
+## 連絡先
 
 - メール: repon27@yahoo.co.jp
 - Twitter: [@ha20250121](https://x.com/ha20250121)
