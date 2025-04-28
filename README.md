@@ -16,13 +16,13 @@ Webエンジニアです。
 
 | プロジェクト | リポジトリ | 説明 | 技術スタック |
 |-|-|-|-|
-| [OAuthログインアプリ](https://login-app-murex-kappa.vercel.app/) | [リポジトリ](https://github.com/repon/login-app-202504141643) | Googleアカウントでログイン、自前BFF構成 | Next.js, OAuth2, JWT, Cookie, Vercel |
+| <a href="https://login-app-murex-kappa.vercel.app/" target="_blank">OAuthログインアプリ</a> | <a href="https://github.com/repon/login-app-202504141643" target="_blank">リポジトリ</a> | Googleアカウントでログイン、自前BFF構成 | Next.js, OAuth2, JWT, Cookie, Vercel |
 
 ## 連絡先
 
 - メール: repon27@yahoo.co.jp
-- Twitter: [@ha20250121](https://x.com/ha20250121)
+- Twitter: <a href="https://x.com/ha20250121" target="_blank">@ha20250121</a>
 - ブログ: 
-  - [Hatena](https://repon.hatenablog.com/)
-  - [Zenn](https://zenn.dev/repon)
-  - [Qiita](https://qiita.com/repon)
+  - <a href="https://repon.hatenablog.com/" target="_blank">Hatena</a>
+  - <a href="https://zenn.dev/repon" target="_blank">Zenn</a>
+  - <a href="https://qiita.com/repon" target="_blank">Qiita</a>
