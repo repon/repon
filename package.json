@@ -1,0 +1,17 @@
+{
+  "name": "my-github-profile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "packageManager": "pnpm@10.11.0",
+  "devDependencies": {
+    "prettier": "^3.5.3"
+  }
+}
